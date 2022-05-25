@@ -2,11 +2,11 @@
 Beginer Software Engineer without commertial experience. I have knowledge in frontend development on JavaScrypt, HTML and CSS.
 I learn development on React. I try do some pet projects and put it here.
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=rsknder3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=rsknder3&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/rsknder/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsknder3&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsknder&layout=compact"/></a>
 </p>
 
 <p align='center'>
