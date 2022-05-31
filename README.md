@@ -6,7 +6,6 @@ I learn development on React. I try do some pet projects and put it here.
            height=150
            src="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/rsknder/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsknder&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -27,7 +26,7 @@ I learn development on React. I try do some pet projects and put it here.
 
 ### My opensource projects
 
-* 
+*   Pet project - Radio
 *   
 *  
 
