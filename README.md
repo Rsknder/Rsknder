@@ -26,7 +26,7 @@ I learn development on React. I try do some pet projects and put it here.
 
 ### My opensource projects
 
-*   Pet project - Radio
+*   <a href='https://github.com/Rsknder/Radio'>Pet project - Radio</a> 
 *   
 *  
 
