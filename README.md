@@ -21,7 +21,8 @@ I learn development on React. I try do some pet projects and put it here.
 ### 🛠 Technical Stack
 
 *   JavaScrypt/HTML/CSS
-*   MS SQL
+*   React
+*   SQL
 *   GitHub
 
 ### My opensource projects
