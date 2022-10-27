@@ -25,11 +25,11 @@ I learn development on React. I try do some pet projects and put it here.
 *   SQL
 *   GitHub
 
-### My opensource projects
+### My projects
 
-*   <a href='https://github.com/Rsknder/Radio'>Pet project - Radio</a> 
-*   <a href='https://github.com/Rsknder/Paint-JS'>Project - Paint on JS</a> 
-*   <a href='https://github.com/Rsknder/15'>Project - 15 - Game </a>   
+*   <a href='https://github.com/Rsknder/Radio'>Simple Radio</a> 
+*   <a href='https://github.com/Rsknder/Paint-JS'>Paint on JS</a> 
+*   <a href='https://github.com/Rsknder/15'>15 - Game </a>   
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/rsknder/github-profile-views-counter">
