@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iskander 
 Beginer Software Engineer without commertial experience. I have knowledge in frontend development on JavaScrypt, HTML and CSS.
-I learn development on React. I try do some pet projects and put it here.
+I learn development on React. I try do some projects and put it here.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"><img
            height=150
@@ -16,7 +16,7 @@ I learn development on React. I try do some pet projects and put it here.
 
 ### Key points
 *   Learn on Frontend Developer
-*   Currently working in bank
+*   Currently working in IT
 
 ### 🛠 Technical Stack
 
