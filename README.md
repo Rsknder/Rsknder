@@ -10,9 +10,7 @@
 </p>
 
 <p align='center'>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:rsknder@gmail.com'>rsknder@gmail.com</a>
-</p>
+
 
 
 ### Key points
@@ -33,6 +31,10 @@
 *   <a href='https://github.com/Rsknder/Radio'>Simple Radio</a> 
 *   <a href='https://github.com/Rsknder/Paint-JS'>Paint on JS</a> 
 *   <a href='https://github.com/Rsknder/15'>15 - Game </a>   
+   
+   <p align='center'>
+   📫 How to reach me: <a href='mailto:rsknder@gmail.com'>rsknder@gmail.com</a>
+</p>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/rsknder/github-profile-views-counter">
