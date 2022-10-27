@@ -22,8 +22,8 @@ I learn development on React. I try do some projects and put it here.
 
 *   HTML
 *   CSS
-*   JavaScrypt
-*   TypeScrypt      
+*   JavaScript
+*   TypeScript      
 *   React
 *   GitHub
 
