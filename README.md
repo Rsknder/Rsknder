@@ -20,9 +20,11 @@ I learn development on React. I try do some pet projects and put it here.
 
 ### 🛠 Technical Stack
 
-*   JavaScrypt/HTML/CSS
+*   HTML
+*   CSS
+*   JavaScrypt
+*   TypeScrypt      
 *   React
-*   SQL
 *   GitHub
 
 ### My projects
