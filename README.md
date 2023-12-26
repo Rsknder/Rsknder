@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rahimov Iskander 
 <p>I'm Software Engineer</p> 
-<p>I have knowledge in frontend development on React, JavaScrypt, HTML and CSS.</p>
-<p>I learn frontend development. I try do some projects and put it here.</p>
+<p>I have knowledge in frontend development on Angular, TypeScript, JavaScrypt, HTML and CSS.</p>
+<p>Im the frontend developer. I try do some projects and put it here.</p>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"><img
            height=150
@@ -23,7 +23,7 @@
 *   CSS
 *   JavaScript
 *   TypeScript      
-*   React
+*   Angular
 *   GitHub
 
 ### My projects
