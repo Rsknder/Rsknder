@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Rahimov Iskander 
-<p>I'm Software Engineer</p> 
+# 👋 Hi, I'm Iskander Rahimov 
+<p>I'm Software Engineer/Frontend developer</p> 
 <p>I have knowledge in frontend development on Angular, TypeScript, JavaScrypt, HTML and CSS.</p>
 <p>I try do some projects and put it here.</p>
 <p align='center'>
