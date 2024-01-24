@@ -14,8 +14,8 @@
 
 
 ### Key points
-*   Learn on Frontend Developer
-*   Currently working in IT
+*   Frontend Developer
+*   Currently working in Bank
 
 ### 🛠 Technical Stack
 
