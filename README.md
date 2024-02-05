@@ -31,8 +31,8 @@
 *   <a href='https://github.com/Rsknder/Radio'>Simple Radio</a> 
 *   <a href='https://github.com/Rsknder/Paint-JS'>Paint on JS</a> 
 *   <a href='https://github.com/Rsknder/15'>15 - Game on React </a>   
-*   <a href='https://github.com/Rsknder/Blog> Blog on Angular </a>
-*      
+*   <a href='https://github.com/Rsknder/blog'> Blog on Angular </a>
+    
    <p align='center'>
    📫 How to reach me: <a href='mailto:rsknder@gmail.com'>rsknder@gmail.com</a>
 </p>
