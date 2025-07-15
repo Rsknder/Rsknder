@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Iskander Rahimov 
 <p>I'm Software Engineer/Frontend developer</p> 
 <p>I have knowledge in frontend development on Angular, TypeScript, JavaScrypt, HTML and CSS.</p>
-<p>I try do some projects and put it here.</p>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"><img
            height=150
@@ -11,27 +10,18 @@
 
 <p align='center'>
 
-
-
-### Key points
-*   Frontend Developer
-*   Currently working in Bank
-
 ### 🛠 Technical Stack
 
 *   HTML
 *   CSS
+*   Git
 *   JavaScript
 *   TypeScript      
 *   Angular
-*   GitHub
+*   GraphQL
+*   Akita state managment
 
-### My projects
 
-*   <a href='https://github.com/Rsknder/Radio'>Simple Radio</a> 
-*   <a href='https://github.com/Rsknder/Paint-JS'>Paint on JS</a> 
-*   <a href='https://github.com/Rsknder/15'>15 - Game on React </a>   
-*   <a href='https://github.com/Rsknder/blog'> Blog on Angular </a>
     
    <p align='center'>
    📫 How to reach me: <a href='mailto:rsknder@gmail.com'>rsknder@gmail.com</a>
