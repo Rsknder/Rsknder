@@ -51,7 +51,7 @@ Projects focused on frontend architecture, interactive data visualization and re
 ### 📫 Contact
 
 - GitHub: [@Rsknder](https://github.com/Rsknder)
-- Email: your-email@example.com
+- Email: rsknder@gmail.com
 
 ---
 
