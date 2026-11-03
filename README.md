@@ -27,12 +27,12 @@
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
 </p>
 
 **Libraries & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=graphql,git,github,npm,webpack,python" />
+  <img src="https://skillicons.dev/icons?i=graphql,git,github,npm,python" />
 </p>
 
 **Additional technologies**
