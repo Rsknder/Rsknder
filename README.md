@@ -1,32 +1,60 @@
-# 👋 Hi, I'm Iskander Rahimov 
-<p>I'm Software Engineer/Frontend developer</p> 
-<p>I have knowledge in frontend development on Angular, TypeScript, JavaScrypt, HTML and CSS.</p>
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=rsknder&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/rsknder/github-readme-stats"><img height=150
+
+<h1 align="center">Hi, I'm Iskander Rakhimov 👋</h1>
+
+<h3 align="center">Frontend Developer | Angular | TypeScript</h3>
+
+<p align="center">
+  Building scalable, maintainable and data-driven web applications.
 </p>
 
-<p align='center'>
-
-### 🛠 Technical Stack
-
-*   HTML
-*   CSS
-*   Git
-*   JavaScript
-*   TypeScript      
-*   Angular
-*   GraphQL
-*   Akita state managment
-
-
-    
-   <p align='center'>
-   📫 How to reach me: <a href='mailto:rsknder@gmail.com'>rsknder@gmail.com</a>
+<p align="center">
+  <a href="https://github.com/Rsknder">
+    <img src="https://komarev.com/ghpvc/?username=Rsknder&style=flat-square&color=blue" alt="Profile views" />
+  </a>
 </p>
 
-<div align="center" style="margin: 40px 0">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=rsknder3&color=DE002D">
-</div>
+---
+
+### 👨‍💻 About Me
+
+- Frontend Developer focused on building modern web applications.
+- Experienced in developing interactive user interfaces and reusable components.
+- Interested in frontend architecture, application performance and data visualization.
+- Working with Angular, TypeScript and modern JavaScript.
+- Continuously improving my engineering skills and exploring new technologies.
+
+### 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass" />
+</p>
+
+**Libraries & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,git,github,npm,webpack,python" />
+</p>
+
+**Additional technologies**
+- RxJS
+- Akita
+- ECharts
+- Web Components
+- REST APIs
+
+### 🚀 Featured Projects
+
+Projects focused on frontend architecture, interactive data visualization and reusable UI components.
+
+<!-- Add your best repositories here -->
+
+### 📫 Contact
+
+- GitHub: [@Rsknder](https://github.com/Rsknder)
+- Email: your-email@example.com
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
